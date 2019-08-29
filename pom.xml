@@ -10,13 +10,21 @@
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/it.sauronsoftware/jave -->
-        <dependency>
+<!--        <dependency>
             <groupId>it.sauronsoftware</groupId>
             <artifactId>jave</artifactId>
             <version>1.0.2</version>
             <scope>system</scope>
-            <systemPath>E:/repository2/it/sauronsoftware/jave/1.0.2/jave-1.0.2.jar</systemPath>
+            <systemPath>F:/ideaProject/FFmpegNoMaven/lib/jave-1.0.2.jar</systemPath>
+        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/it.sauronsoftware/jave -->
+        <dependency>
+            <groupId>it.sauronsoftware</groupId>
+            <artifactId>jave</artifactId>
+            <version>1.0.2</version>
         </dependency>
+
 
         <dependency>
 
