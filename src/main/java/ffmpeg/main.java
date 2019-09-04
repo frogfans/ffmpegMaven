@@ -16,7 +16,8 @@ public class main {
         list.add("-vn");
         list.add("-vcodec");
         list.add("copy");
-        list.add("F:\\video\\output.mp4");
+//        list.add("F:\\video\\output.mp4");
+        list.add("output.mp4");
 
         MediaUtil.executeCommand(list);
     }
